@@ -1,0 +1,33 @@
+total 18344
+-rw-r--r--  1 michael  staff     0B Nov 29 19:49 timestamped_1950_11-28-16.txt
+-rw-r--r--  1 michael  staff    27K Nov 21 21:47 Untitled.ipynb
+-rw-r--r--  1 michael  staff    87K Nov 21 21:04 aligned_lig_vals.ipynb
+-rw-r--r--  1 michael  staff   107K Nov 21 20:54 find_rtots.ipynb
+-rw-r--r--  1 michael  staff   184K Nov 21 20:53 align_test.ipynb
+-rw-r--r--  1 michael  staff   131K Nov 21 20:53 latest_greatest.ipynb
+-rw-r--r--  1 michael  staff   4.1K Nov 19 19:25 data_proc_pipeline.ipynb
+-rw-r--r--  1 michael  staff    35K Nov 19 17:31 Data_Preprocess_Pipeline.ipynb
+-rw-r--r--  1 michael  staff    73K Nov 19 10:03 dict_work.ipynb
+-rw-r--r--  1 michael  staff   1.9M Nov 15 17:57 comps_clean.ipynb
+-rw-r--r--  1 michael  staff   686K Nov 12 08:10 clean4.ipynb
+-rw-r--r--  1 michael  staff   284K Nov  6 17:22 comps.ipynb
+-rw-r--r--  1 michael  staff   115K Nov  6 17:04 rationale_for_noise.ipynb
+-rw-r--r--  1 michael  staff   217K Nov  6 17:03 illustration_of_noise_effect.ipynb
+-rw-r--r--  1 michael  staff   227K Nov  5 10:29 emcee_example_understand_noise.ipynb
+-rw-r--r--  1 michael  staff   277K Oct 30 18:00 gettingvec.ipynb
+-rw-r--r--  1 michael  staff    19K Oct 27 09:54 sciopt.ipynb
+-rw-r--r--  1 michael  staff    37K Oct 27 09:54 IMPORTENT.ipynb
+-rw-r--r--  1 michael  staff    37K Oct 27 09:42 vectrzd.ipynb
+-rw-r--r--  1 michael  staff   677K Oct 24 22:08 clean3.ipynb
+-rw-r--r--  1 michael  staff   738K Oct 24 21:59 clean2.ipynb
+-rw-r--r--  1 michael  staff   675K Oct 24 21:58 Clean_Fit.ipynb
+-rw-r--r--  1 michael  staff   639K Oct 24 21:06 wyman_model.ipynb
+-rw-r--r--  1 michael  staff   315K Oct 23 11:25 finalsene.ipynb
+-rw-r--r--  1 michael  staff   207K Oct 20 21:55 finally_making_sense.ipynb
+-rw-r--r--  1 michael  staff   167K Oct 19 18:12 dataframefromcsv1.ipynb
+-rw-r--r--  1 michael  staff   112K Oct 19 17:23 getting_to_dict-of-dfs.ipynb
+-rw-r--r--  1 michael  staff   169K Oct 17 21:44 panders.ipynb
+-rw-r--r--  1 michael  staff    77K Oct 11 20:12 Multifit Exampls.ipynb
+-rw-r--r--  1 michael  staff    18K Oct 11 20:12 emcee site example.ipynb
+-rw-r--r--  1 michael  staff   730K Oct 11 20:12 emcee_lmfit_ex.ipynb
+-rw-r--r--  1 michael  staff   143K Oct 11 20:12 krinkle.ipynb
