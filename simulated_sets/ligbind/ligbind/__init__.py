@@ -1,1 +1,1 @@
-from .core import WymSim, WymFit, WymSimTest
+from .core import WymSim, WymFit, WymSimTest, WymSim_Hardlig
