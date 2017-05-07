@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+__all__ = ["WymSim","WymSimSubset","WymSimHardlig","WymFit"]
+
 from . import helpers
 from . import models
 import numpy as np
@@ -29,7 +31,7 @@ class WymSim:
         self.stdset = np.array([self.noised[i].std(axis=0) for i in range(len(self.noised))])
 
 
-class WymSimTest:
+class WymSimSubset:
 
     #default init values
     __dparms = np.array([3.,2.,0.1,100.])
@@ -59,7 +61,7 @@ class WymSimTest:
         self.bfrac = np.array([j[lo:hi] for j in self.ligs])
 
 
-class WymSim_Hardlig:
+class WymSimHardlig:
 
     #default init values
     __dparms = np.array([3.,2.,0.1,100.])
